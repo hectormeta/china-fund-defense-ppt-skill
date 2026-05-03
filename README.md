@@ -27,16 +27,14 @@ Windows PowerShell：
 
 ```powershell
 $skillDir = "$env:USERPROFILE\.codex\skills\china-fund-defense-ppt"
-git clone https://github.com/<你的GitHub用户名>/china-fund-defense-ppt-skill.git $skillDir
+git clone https://github.com/hectormeta/china-fund-defense-ppt-skill.git $skillDir
 ```
 
 macOS / Linux：
 
 ```bash
-git clone https://github.com/<你的GitHub用户名>/china-fund-defense-ppt-skill.git ~/.codex/skills/china-fund-defense-ppt
+git clone https://github.com/hectormeta/china-fund-defense-ppt-skill.git ~/.codex/skills/china-fund-defense-ppt
 ```
-
-把上面的 `<你的GitHub用户名>` 替换为实际仓库所有者。
 
 ### 方法二：下载 ZIP 手动安装
 
