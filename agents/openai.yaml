@@ -1,0 +1,4 @@
+interface:
+  display_name: "国内基金答辩 PPT"
+  short_description: "读取 PDF/Word/PPTX 申请材料，生成国内基金答辩 PPT 和逐页口语讲稿。"
+  default_prompt: "使用 china-fund-defense-ppt skill，读取我的申请材料，生成国内基金答辩 PPT，并按汇报时间生成逐页讲稿。"
